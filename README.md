@@ -1,3 +1,35 @@
+
+<div align="right">
+  <details>
+    <summary >🌐 Language</summary>
+    <div>
+      <div align="center">
+        <a href="https://openaitx.github.io/view.html?user=sergei-lapin&project=napt&lang=en">English</a>
+        | <a href="https://openaitx.github.io/view.html?user=sergei-lapin&project=napt&lang=zh-CN">简体中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=sergei-lapin&project=napt&lang=zh-TW">繁體中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=sergei-lapin&project=napt&lang=ja">日本語</a>
+        | <a href="https://openaitx.github.io/view.html?user=sergei-lapin&project=napt&lang=ko">한국어</a>
+        | <a href="https://openaitx.github.io/view.html?user=sergei-lapin&project=napt&lang=hi">हिन्दी</a>
+        | <a href="https://openaitx.github.io/view.html?user=sergei-lapin&project=napt&lang=th">ไทย</a>
+        | <a href="https://openaitx.github.io/view.html?user=sergei-lapin&project=napt&lang=fr">Français</a>
+        | <a href="https://openaitx.github.io/view.html?user=sergei-lapin&project=napt&lang=de">Deutsch</a>
+        | <a href="https://openaitx.github.io/view.html?user=sergei-lapin&project=napt&lang=es">Español</a>
+        | <a href="https://openaitx.github.io/view.html?user=sergei-lapin&project=napt&lang=it">Italiano</a>
+        | <a href="https://openaitx.github.io/view.html?user=sergei-lapin&project=napt&lang=ru">Русский</a>
+        | <a href="https://openaitx.github.io/view.html?user=sergei-lapin&project=napt&lang=pt">Português</a>
+        | <a href="https://openaitx.github.io/view.html?user=sergei-lapin&project=napt&lang=nl">Nederlands</a>
+        | <a href="https://openaitx.github.io/view.html?user=sergei-lapin&project=napt&lang=pl">Polski</a>
+        | <a href="https://openaitx.github.io/view.html?user=sergei-lapin&project=napt&lang=ar">العربية</a>
+        | <a href="https://openaitx.github.io/view.html?user=sergei-lapin&project=napt&lang=fa">فارسی</a>
+        | <a href="https://openaitx.github.io/view.html?user=sergei-lapin&project=napt&lang=tr">Türkçe</a>
+        | <a href="https://openaitx.github.io/view.html?user=sergei-lapin&project=napt&lang=vi">Tiếng Việt</a>
+        | <a href="https://openaitx.github.io/view.html?user=sergei-lapin&project=napt&lang=id">Bahasa Indonesia</a>
+        | <a href="https://openaitx.github.io/view.html?user=sergei-lapin&project=napt&lang=as">অসমীয়া</
+      </div>
+    </div>
+  </details>
+</div>
+
 # ⚠️ This repository is archived. Consider migrating your annotation processing setup to KSP. ⚠️
 
 # NAPT
